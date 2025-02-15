@@ -25,5 +25,5 @@ function moveButton(button) {
 
 const yesButton = document.getElementById('yes-btn');
 yesButton.addEventListener('click', () => {
-  alert("Yay! You made me the happiest person! 💖");
+  alert("Yay! I LOCE YOU!! 💖");
 });
